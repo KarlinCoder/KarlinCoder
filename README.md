@@ -1,6 +1,6 @@
 # 🌟 Giancarlo Dennis - Frontend Developer & Tech Enthusiast 🚀
 
-![Profile Image](your-profile-image-url)
+![Profile Image](https://portafolio.karlincoder.com/images/avatar.webp)
 
 ¡Hola! 👋 Soy **Giancarlo Dennis**, un apasionado desarrollador frontend con una sólida base en tecnologías modernas y un enfoque en la creación de experiencias web atractivas, funcionales y accesibles. Mi misión es transformar ideas en realidades digitales que cautiven a los usuarios y superen las expectativas.
 
@@ -105,15 +105,9 @@ Cuando no estoy codificando, disfruto explorando nuevas tendencias tecnológicas
 
 Si tienes un proyecto interesante o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
 
-- **Correo electrónico:** tu-email@ejemplo.com  
-- **LinkedIn:** [Perfil](#)  
-- **GitHub:** [Perfil](#)  
-
----
-
-## 🙌 Gracias por visitar mi perfil
-
-Espero que este README te haya dado una buena idea de quién soy y lo que puedo ofrecer. Si te gustaría colaborar en un proyecto o simplemente quieres decir "hola", estaré encantado de escucharte. ¡Hagamos realidad tus ideas juntos! 🚀
+- **Correo electrónico:** giancarlo.frontend@gmail.com  
+- **Instagram:** [instagram.com/KarlinCoder](#)  
+- **WhatsApp Business:** [https://api.whatsapp.com/send?phone=5352662128&text=Hola%20%F0%9F%91%8B%2C%20vengo%20desde%20su%20portafolio](#)  
 
 ---
 
