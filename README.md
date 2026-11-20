@@ -1,113 +1,77 @@
-# 🌟 Giancarlo Dennis - Frontend Developer 
+# 🌟 Giancarlo Dennis Pérez Alonso — Fullstack Developer
 
-¡Hola! 👋 Soy **Giancarlo Dennis**, un apasionado desarrollador frontend con una sólida base en tecnologías modernas y un enfoque en la creación de experiencias web atractivas, funcionales y accesibles. Mi misión es transformar ideas en realidades digitales que cautiven a los usuarios y superen las expectativas.
+[![GitHub followers](https://img.shields.io/github/followers/KarlinCoder?style=for-the-badge)](https://github.com/KarlinCoder?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/KarlinCoder?style=for-the-badge)](https://github.com/KarlinCoder?tab=stars)
+[![GitHub repos](https://img.shields.io/github/repos/KarlinCoder?style=for-the-badge)](https://github.com/KarlinCoder?tab=repositories)
+
+[![Star Me](https://img.shields.io/github/stars/KarlinCoder?style=social)](https://github.com/KarlinCoder)
+[![Follow](https://img.shields.io/github/followers/KarlinCoder?style=social)](https://github.com/KarlinCoder)
 
 ---
 
-## 💡 Sobre mí
+**Fullstack Software Engineer**
+📍 Madrid, España
+📧 karlincoder@gmail.com | 📱 +53 52662128
+🔗 [github.com/giancarloperez](https://github.com/giancarloperez) | 💼 [linkedin.com/in/giancarloperez](https://linkedin.com/in/giancarloperez)
 
-Desde niño, la programación despertó mi curiosidad, y hoy se ha convertido en mi pasión y forma de vida. Me encanta diseñar interfaces modernas, optimizar rendimiento y crear soluciones que realmente importan. Para mí, cada proyecto es una oportunidad para plasmar mi dedicación y entusiasmo, dejando una huella única en cada línea de código.
+---
 
-> _"La única forma de hacer un gran trabajo es amar lo que haces."_  
+## 💡 About me
+
+Fullstack developer passionate about building modern, scalable web and mobile applications with exceptional user experience. Deep expertise in the JavaScript/TypeScript ecosystem — both server and frontend. I also work extensively with AI-powered development tools (OpenCode, autonomous agents, custom Skills, MCP servers) to ship faster and smarter.
+
+> _"The only way to do great work is to love what you do."_
 > — Steve Jobs
 
----
+## 💼 Experience
 
-## 🔧 Tecnologías que domino
+**Frontend Developer** — *2024*
+**XETID** (Cuba)
+Developed dashboards and user interfaces for management applications using Vue.js + Vuetify. Focused on reusable components, API consumption, and smooth UX.
 
-No le temo a lo desconocido. Estoy siempre dispuesto a aprender y adaptarme a nuevas herramientas y frameworks. Aquí tienes una lista de las tecnologías que manejo con confianza:
+## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Vue, Tailwind CSS, Bootstrap, Vuetify, CSS Modules.
-- **Herramientas de desarrollo:** Git, GitHub, Vite, Markdown.
-- **Backend (Básico):** Node.js, Express.js.
-- **Lenguajes adicionales:** Python.
-- **Diseño UX/UI:** Figma, Adobe XD.
-- **Optimización:** SEO, Accesibilidad, Rendimiento Web.
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React, Next.js, Vue.js, Vuetify, Tailwind CSS, Shadcn UI, Material UI (MUI) |
+| **Backend** | Node.js, Express.js, TypeScript |
+| **Databases** | PostgreSQL, SQLite, DrizzleORM, TypeORM |
+| **Mobile** | React Native, Expo |
+| **AI & Automation** | OpenCode, AI Agents, Custom Skills, MCP Servers |
+| **Tools** | Git, GitHub, FFmpeg, CI/CD |
 
----
+## 📂 Featured Projects
 
-## 🎯 Mis habilidades destacadas
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| **Firo Reparaciones** | Full home services web platform in Spain with admin panel for appointments & customers | Next.js, Node.js, PostgreSQL, Tailwind, TypeScript | [Live](https://firo-reparaciones.es) · [GitHub](https://github.com/KarlinCoder/firo-reparaciones.es) |
+| **Musify** | Deezer music downloader & explorer for seamless track search and management | React, Node.js, Express, Tailwind CSS | [GitHub](#) |
+| **Iconify** | Online icon converter using FFmpeg for multimedia processing & format conversion | Node.js, FFmpeg, Express, React | [GitHub](#) |
+| **Moovie Searcher** | Movie search app with synopsis, ratings & detailed info | React, JS, Tailwind | [Live](https://mooviesearch.vercel.app) · [GitHub](https://github.com/KarlinCoder/mooviesearch.vercel.app) |
+| **Youtube Video Downloader** | Modern YouTube downloader with distributed backend | React, TypeScript, Tailwind | [GitHub](https://github.com/KarlinCoder/youtube-dl) |
 
-- **Desarrollo frontend moderno:** Construcción de interfaces responsivas, rápidas y visualmente atractivas.
-- **Migración de código legacy:** Transformación de proyectos obsoletos a tecnologías actuales como React o TypeScript.
-- **Optimización de rendimiento:** Mejora de velocidad, tamaño y escalabilidad de aplicaciones web.
-- **Prototipado rápido:** Diseño de prototipos funcionales en tiempo récord para validar ideas.
-- **Integración de APIs:** Conexión fluida entre frontend y servicios externos para funcionalidades dinámicas.
-- **Accesibilidad y SEO:** Implementación de prácticas que mejoran la visibilidad y usabilidad de tus proyectos.
+## 🎓 Education & Certifications
 
----
+- **AWS Certified Developer** 🏆
+- **Meta Front-End Developer** 🏆
+- **Ingeniería Informática** (En curso) — Universidad de Ciencias Informáticas (UCI)
+- **Técnico Medio en Informática** (2018) — Instituto Técnico
 
-## 📂 Proyectos destacados
+## 🌐 Languages
 
-Aquí algunos de los proyectos que he desarrollado recientemente:
+- 🇪🇸 **Español** — Nativo
+- 🇬🇧 **Inglés** — Profesional
 
-### 1️⃣ **Youtube Video Downloader**
-Descargador moderno de videos de YouTube con un backend distribuido en múltiples servidores.  
-**Tecnologías:** React, TypeScript, Tailwind CSS  
-[🔗 Visitar](#) | [🐙 GitHub](#)
+## 🤝 Let's connect
 
-### 2️⃣ **Diccionario Español**
-Diccionario intuitivo que utiliza una API Rest de terceros para búsquedas de palabras y definiciones.  
-**Tecnologías:** React, TypeScript, Tailwind CSS  
-[🔗 Visitar](#) | [🐙 GitHub](#)
+Interested in collaborating or just want to chat about tech?
 
-### 3️⃣ **Piedra, Papel, Tijeras**
-Juego clásico con almacenamiento de puntuación mediante localStorage.  
-**Tecnologías:** React, TypeScript, Tailwind CSS  
-[🔗 Visitar](#) | [🐙 GitHub](#)
-
-### 4️⃣ **Moovie Searcher**
-Buscador de películas con información detallada como sinopsis, valoración y más.  
-**Tecnologías:** React, JavaScript, Tailwind CSS  
-[🔗 Visitar](#) | [🐙 GitHub](#)
-
-### 5️⃣ **Reparaciones FIRO**
-Landing Page moderna con animaciones CSS y formulario de contacto integrado con emailjs.  
-**Tecnologías:** React, JavaScript, CSS Modules  
-[🔗 Visitar](#) | [🐙 GitHub](#)
+- 📧 **Email:** karlincoder@gmail.com
+- 📷 **Instagram:** [@KarlinCoder](https://www.instagram.com/karlincoder)
+- 💬 **WhatsApp:** [Send message](https://api.whatsapp.com/send?phone=5352662128&text=Hola%20%F0%9F%91%8B%2C%20vengo%20desde%20su%20portafolio)
+- 🌐 **Portfolio:** [karlincoder.com](https://karlincoder.com)
 
 ---
 
-## 🛠 Servicios que ofrezco
-
-- **Desarrollo frontend moderno:** Interfaces funcionales y visualmente atractivas.
-- **Diseño de dashboards:** Paneles administrativos claros y efectivos para visualización de datos.
-- **Tiendas online:** E-commerce rápidas, seguras y optimizadas.
-- **Prototipado rápido:** Validación de ideas en tiempo récord.
-- **Optimización de rendimiento:** Mejora de velocidad y eficiencia en tus aplicaciones.
-- **Migración de código legacy:** Actualización de proyectos antiguos a tecnologías modernas.
-
----
-
-## 🎓 Formación académica
-
-- **Estudiante de Ingeniería Informática**  
-  Universidad Central de las Villas  
-  _En curso_
-
-- **Prácticas profesionales en XETID**  
-  Empresa cubana de desarrollo de software  
-  _6 meses_
-
----
-
-## 🌟 Un poco más sobre mí
-
-La programación no es solo un trabajo para mí; es una forma de expresión. Me encanta resolver problemas complejos, aprender nuevas tecnologías y colaborar con equipos multidisciplinarios. Siempre busco dejar una huella positiva en cada proyecto en el que participo.
-
-Cuando no estoy codificando, disfruto explorando nuevas tendencias tecnológicas, leyendo sobre desarrollo web y ayudando a otros a crecer en su camino como programadores.
-
----
-
-## 🤝 Contáctame
-
-Si tienes un proyecto interesante o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
-
-- **Correo electrónico:** giancarlo.frontend@gmail.com  
-- **Instagram:** [instagram.com/KarlinCoder](#)  
-- **WhatsApp Business:** [https://api.whatsapp.com/send?phone=5352662128&text=Hola%20%F0%9F%91%8B%2C%20vengo%20desde%20su%20portafolio](#)  
-
----
-
-> _"El futuro pertenece a aquellos que creen en la belleza de sus sueños."_  
+> _"El futuro pertenece a aquellos que creen en la belleza de sus sueños."_
 > — Eleanor Roosevelt
