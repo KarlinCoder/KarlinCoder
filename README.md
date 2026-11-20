@@ -2,9 +2,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/KarlinCoder?style=for-the-badge)](https://github.com/KarlinCoder?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/KarlinCoder?style=for-the-badge)](https://github.com/KarlinCoder?tab=stars)
-[![GitHub repos](https://img.shields.io/github/repos/KarlinCoder?style=for-the-badge)](https://github.com/KarlinCoder?tab=repositories)
 
 [![Star Me](https://img.shields.io/github/stars/KarlinCoder?style=social)](https://github.com/KarlinCoder)
+[![Follow](https://img.shields.io/github/followers/KarlinCoder?style=social)](https://github.com/KarlinCoder)
 
 ---
 
