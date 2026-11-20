@@ -49,13 +49,6 @@ Developed dashboards and user interfaces for management applications using Vue.j
 | Moovie Searcher | Movie search app with synopsis, ratings and detailed info | React, JS, Tailwind | Live: mooviesearch.vercel.app · GitHub: github.com/KarlinCoder/mooviesearch.vercel.app |
 | Youtube Video Downloader | Modern YouTube downloader with distributed backend | React, TypeScript, Tailwind | GitHub: github.com/KarlinCoder/youtube-dl |
 
-## Education & Certifications
-
-- AWS Certified Developer
-- Meta Front-End Developer
-- Ingeniería Informática (En curso) — Universidad de Ciencias Informáticas (UCI)
-- Técnico Medio en Informática (2018) — Instituto Técnico
-
 ## Languages
 
 - Spanish — Native
